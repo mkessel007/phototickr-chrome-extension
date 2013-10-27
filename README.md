@@ -3,6 +3,8 @@ phototickr-chrome-extension
 
 http://phototickr.com
 
+Download the extension at https://chrome.google.com/webstore/detail/phototickr/fnmkmkgmgokpcikaanlhfmfbjcjnbfaj
+
 Recent Photography News from Phototickr
 The official Chrome extension for Phototickr.
 
